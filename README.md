@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400" src="https://66.media.tumblr.com/b9453ec6e72fcc51e21280d7d4739173/tumblr_ndvso0BATT1tr1l0qo1_400.gif">
+<img align="right" width="450" height="400" src="https://66.media.tumblr.com/b9453ec6e72fcc51e21280d7d4739173/tumblr_ndvso0BATT1tr1l0qo1_400.gif">
 
 # Ryan Naressi
 
