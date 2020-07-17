@@ -5,9 +5,9 @@
 
 ## Olá 👋,
 
-Eu sou o Ryann, tenho 19 anos, no momento, um estudante das tecnologias mobile e webdesigner e cada vez me apaixonando mais pelas posibilidades que posso atingir com diversas tecnologias e todo os diversos ecossistemas.👨‍💻
+Sou o Ryann, tenho 19 anos, e, no momento, sou um estudante das tecnologias mobile e de webdesigner, cada vez me apaixonando mais pelas posibilidades que posso atingir com diversas tecnologias e seus diversos ecossistemas.👨‍💻
 
-- 🔭 Atualmente dedico meu tempo conhecendo JavaScript e seus frameworks ReactNative/ ReactJS
+- 🔭 Atualmente dedico meu tempo estudando JavaScript e seus frameworks, ReactNative/ ReactJS !!
 - ⚡ Tecnologias: React, Node, React-Native
 
 
